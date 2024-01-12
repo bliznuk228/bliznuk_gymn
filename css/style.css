@@ -1,5 +1,7 @@
 body {
   background: url("../img/photo_2024-01-12_20-44-03.jpg");
+  background-size: 100% 100vh;
+  background-repeat: no-repeat;
 }
 
 .mp3-wrapper {

@@ -1,0 +1,9 @@
+body {
+  background: url("../img/photo_2024-01-12_20-44-03.jpg");
+}
+
+.mp3-wrapper {
+  display: flex;
+  justify-content: center;
+  transform: translateY(500%);
+}
